@@ -10,9 +10,9 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-<h3 align="left">🛠 Languages, frameworks and tools</h3>
+###
 <div align ="left">
 <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,js,html,css" />
@@ -36,3 +36,5 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
+
+###
