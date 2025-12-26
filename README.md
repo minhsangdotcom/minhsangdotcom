@@ -3,38 +3,26 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhsangdotcom&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=600" height="155" alt="stats graph"  />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhsangdotcom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
+  
+<img align="center" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+![Metrics](https://metrics.lecoq.io/minhsangdotcom?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBangkok)
+
 </div>
 
 ###
 
-<img align="right" height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+[![My Skills](https://skillicons.dev/icons?i=cs,typescript,javascript,html,css,dotnet,postgresql,elasticsearch,redis,aws,nodejs,react,docker,git,githubactions,visualstudio,vscode,linux,windows&theme=dark&perline=15)](https://skillicons.dev)
 
 ###
-<div align ="left">
-<!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,js,html,css" />
-  <!-- Backend / Frameworks -->
-  <img src="https://skillicons.dev/icons?i=dotnet,postgres,mysql,redis,elasticsearch,aws" />
-
-  <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,nginx,vscode" />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:minhsang.1mil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sang-tran-b78431352/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.facebook.com/sang.minh97" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</div>
+<a href="mailto:minhsang.1mil@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+<a href="https://www.linkedin.com/in/sang-tran-b78431352/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
+</a>
+<a href="https://www.facebook.com/sang.minh97" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35"/>
+</a>
 
 ###
