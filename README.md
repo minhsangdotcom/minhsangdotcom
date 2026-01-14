@@ -1,20 +1,21 @@
-<h2 align="left">Hi 👋! My name is Tran Minh Sang and I'm a .Net and Nodejs Backend Developer, from Vietnam</h2>
+<h2 align="left">Hi 👋! My name is Tran Minh Sang and I'm a .Net | NodeJs Backend Developer, from Vietnam</h2>
 
 ###
 
 <div align="center">
-  
-<img align="center" height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-![Metrics](https://metrics.lecoq.io/minhsangdotcom?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FBangkok)
+<p>
+  Obsessed with backend engineering and system design.<br/>
+  Actively working toward becoming a <strong>Full-Stack Developer</strong> with solid <strong>DevOps</strong> skills.<br/>
+</p>
 
 </div>
 
-###
+## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cs,typescript,javascript,html,css,dotnet,postgresql,elasticsearch,redis,aws,nodejs,react,docker,git,githubactions,visualstudio,vscode,linux,windows&theme=dark&perline=15)](https://skillicons.dev)
 
-###
+## 📫 Contact Me
+
 <a href="mailto:minhsang.1mil@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
 </a>
