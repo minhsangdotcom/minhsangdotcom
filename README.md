@@ -5,7 +5,7 @@
 <div align="center">
 <p>
   Obsessed with backend engineering and system design.<br/>
-  Actively working toward becoming a <strong>Full-Stack Developer</strong> with solid <strong>DevOps</strong> skills.<br/>
+  Actively working toward becoming a <strong>Full-Stack Developer</strong>.<br/>
 </p>
 
 </div>
