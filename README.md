@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tran Minh Sang and I'm a .Net | NodeJs Backend Developer, from Vietnam</h2>
+<h2 align="left">Hi 👋! My name is Tran Minh Sang and I'm a .Net & NodeJs Backend Developer, from Vietnam</h2>
 
 ###
 
