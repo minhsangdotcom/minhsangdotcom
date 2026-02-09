@@ -1,13 +1,18 @@
-<h2 align="left">Hi 👋! My name is Tran Minh Sang and I'm a .Net & NodeJs Backend Developer, from Vietnam</h2>
+### Hi there! 👋 My name is Tran Minh Sang :handshake:
 
-###
+I'm a Backend developer from Vietnam working with **.NET** & **Node.js**
+
+:dart: Currently leveling up: Backend → Full-stack
+
+:green_heart: Love building scalable server-side systems
+
+:earth_asia: Coding from Vietnam
+
+## :chart_with_upwards_trend: Github Stats
 
 <div align="center">
-<p>
-  Obsessed with backend engineering and system design.<br/>
-  Actively working toward becoming a <strong>Full-Stack Developer</strong>.<br/>
-</p>
-
+  <img src="https://streak-stats.demolab.com?user=minhsangdotcom&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhsangdotcom&theme=tokyonight" height="150"/>
 </div>
 
 ## 🛠️ Tech Stack
