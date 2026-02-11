@@ -11,8 +11,9 @@ I'm a Backend developer from Vietnam working with **.NET** & **Node.js**
 ## :chart_with_upwards_trend: Github Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=minhsangdotcom&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhsangdotcom&theme=tokyonight" height="150"/>
+   <img src="https://streak-stats.demolab.com?user=minhsangdotcom&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minhsangdotcom&theme=dracula" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minhsangdotcom&theme=dracula" height="150"/>
 </div>
 
 ## 🛠️ Tech Stack
